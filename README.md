@@ -43,6 +43,16 @@
    </li> <br>
 
    <li>Head over to http://localhost:8000/fb_login</li> <br>
+
+   <h3>Note</h3>: To make sure localhost is one of the allowed URLs for your Facebook app, do the following
+
+   <pre>In the Dashboard for your Facebook App: Go to Settings > Advanced <br> <br>
+
+        Under <strong>Valid OAuth redirect URIs.</strong>, add http://localhost:8000/ <br> <br>
+
+        Save changes
+   </pre>
+
    <li>Click 'Login'</li> <br>
    <li>Grab a drink, sit back, and watch as your most liked Facebook posts fill your screen</li>
  </ol>
