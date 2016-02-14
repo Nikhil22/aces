@@ -17,8 +17,8 @@
 
 <ol>
   <li>Clone this repo</li> <br>
-  <li>cd into aces. 'cd aces'</li> <br>
-  <li>'npm install'</li> <br>
+  <li><pre>cd aces</pre></li> <br>
+  <li><pre>npm install</pre></li> <br>
 
   <li>Important! Make sure you have a Facebook App ID. <br> If you don't, visit https://developers.facebook.com.</li> <br>
 
@@ -38,8 +38,8 @@
 
    <li>
     Have 2 Terminal tabs open <br>
-    In the first tab, run 'npm start' <br>
-    In the second tab, run 'nodemon server.js'
+    In the first tab, run <pre>npm start</pre> <br>
+    In the second tab, run <pre>nodemon server.js</pre>
    </li> <br>
 
    <li>Head over to 'http://localhost:8000/fb_login'</li> <br>
