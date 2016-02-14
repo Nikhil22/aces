@@ -42,7 +42,7 @@
     In the second tab, run <pre>nodemon server.js</pre>
    </li> <br>
 
-   <li>Head over to 'http://localhost:8000/fb_login'</li> <br>
+   <li>Head over to http://localhost:8000/fb_login</li> <br>
    <li>Click 'Login'</li> <br>
    <li>Grab a drink, sit back, and watch as your most liked Facebook posts fill your screen</li>
  </ol>
