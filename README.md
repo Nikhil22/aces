@@ -27,13 +27,13 @@
 
   Modify the following piece of code: <br> <br>
 
-  <strong>FB.init({<br>
+  <pre>FB.init({<br>
     appId      : 'Your APP ID here',<br>
     cookie     : true,  // enable cookies to allow the server to access<br>
                         // the session<br>
     xfbml      : true,  // parse social plugins on this page<br>
     version    : 'v2.2' // use version 2.2
-  });</strong> <br> <br>
+  });</pre> <br> <br>
   </li>
 
    <li>
