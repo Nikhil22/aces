@@ -20,19 +20,19 @@
   <li>cd into aces. 'cd aces'</li> <br>
   <li>'npm install'</li> <br>
 
-  <li>Important! Make sure you have a Facebook App ID. <br> If you don't, visit https://developers.facebook.com.</li>
+  <li>Important! Make sure you have a Facebook App ID. <br> If you don't, visit https://developers.facebook.com.</li> <br>
 
   <li>
   Once you have your App ID, head over to public/js/fb-magic.js <br>
 
   Modify the following piece of code: <br> <br>
 
-  <strong>FB.init({
-    appId      : '<Your APP ID here>',
-    cookie     : true,  // enable cookies to allow the server to access
-                        // the session
-    xfbml      : true,  // parse social plugins on this page
-    version    : 'v2.2' // use version 2.2
+  <strong>FB.init({<br>
+    appId      : '<Your APP ID here>',<br>
+    cookie     : true,  // enable cookies to allow the server to access<br>
+                        // the session<br>
+    xfbml      : true,  // parse social plugins on this page<br>
+    version    : 'v2.2' // use version 2.2<br>
   });</strong> <br>
   </li>
 
@@ -40,7 +40,7 @@
     Have 2 Terminal tabs open <br>
     In the first tab, run 'npm start' <br>
     In the second tab, run 'nodemon server.js'
-   </li>
+   </li> <br>
 
    <li>Head over to 'http://localhost:8000/fb_login'</li> <br>
    <li>Click 'Login'</li> <br>
