@@ -42,9 +42,9 @@
     In the second tab, run <pre>nodemon server.js</pre>
    </li> <br>
 
-   <li>Head over to http://localhost:8000/fb_login</li> <br><br>
+   <li>Head over to http://localhost:8000/fb_login</li> <br>
 
-   <h3>Note</h3> To make sure localhost is one of the allowed URLs for your Facebook app, do the following
+   <h3>Note</h3> To make sure localhost is one of the allowed URLs for your Facebook app, do the following <br>
 
    <pre>In the Dashboard for your Facebook App: Go to Settings > Advanced <br> <br> Under <strong>Valid OAuth redirect URIs.</strong>, add http://localhost:8000/ <br> <br> Save changes
    </pre>
