@@ -16,9 +16,9 @@
 <h2>How to use</h2>
 
 <ol>
-  <li>Clone this repo</li> <br>
-  <li><pre>cd aces</pre></li> <br>
-  <li><pre>npm install</pre></li> <br>
+  <li>Clone this repo & install all dependencies</li> <br>
+  <pre>cd aces</pre> <br>
+  <pre>npm install</pre> <br>
 
   <li>Important! Make sure you have a Facebook App ID. <br> If you don't, visit https://developers.facebook.com.</li> <br>
 
