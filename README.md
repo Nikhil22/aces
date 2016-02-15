@@ -3,7 +3,7 @@
 <h2>What is it?</h2>
 
 <ol>
-  <li>Get your most liked Facebook posts all in a responsive, Pinterest style grid layout :)</li>
+  <li>Discover your most liked Facebook posts, in a responsive, Pinterest style grid UI :)</li>
   <li>Filter your posts</li>
 </ol>
 
