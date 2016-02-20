@@ -1,7 +1,7 @@
 var utility = require('./utility');
-var bestPosts = require('./bestPosts');
+var mostLikedPosts = require('./mostLikedPosts');
 
 module.exports = {
-	'bestPosts' : bestPosts,
+	'mostLikedPosts' : mostLikedPosts,
 	'utility' : utility
 }

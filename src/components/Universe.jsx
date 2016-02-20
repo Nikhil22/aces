@@ -6,7 +6,7 @@ var HTTP = require('../services/httpservice');
 var Universe = React.createClass({
 
         componentDidMount: function() {
-          HTTP.get('/bestPosts')
+          HTTP.get('/mostLikedPosts')
           .then(function(data) {
               this.setState({
                 cardItems: data,

@@ -20385,7 +20385,7 @@ var Universe = React.createClass({
 
 
   componentDidMount: function () {
-    HTTP.get('/bestPosts').then(function (data) {
+    HTTP.get('/mostLikedPosts').then(function (data) {
       this.setState({
         cardItems: data,
         numBestPostsCards: data.length
