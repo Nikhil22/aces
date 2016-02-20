@@ -17,9 +17,10 @@
 <ol>
 <li>Change the httpGet function in fun/utility.js from synchronous to asynchronous, and use promises to control the flow</li>
 <li>Load more content as user scrolls down</li>
+<li>Thumbnail url previews for any images you share on Facebook rely on an 3rd party API Embedly. This thumbail preview feature should be done 'in-house'</li>
 </ol>
 
-<h5>These are the 2 main improvements I can think of. If you can think of more (surely, there are more improvements to be made), don't hesitate to add 'em to this list & contribute your code :) </h5>
+<h5>These are the 3 main improvements I can think of. If you can think of more (surely, there are more improvements to be made), don't hesitate to add 'em to this list & contribute your code :) </h5>
 
 <h2>How to use</h2>
 
