@@ -9,13 +9,14 @@
 
 <h2>Desktop</h2>
 
-<p align="center">
-  <img src="https://github.com/Nikhil22/aces/blob/master/public/img/reel.png" width="350"/>
+<p>
+  <img src="https://github.com/Nikhil22/aces/blob/master/public/img/reel.png"/>
 </p>
-![Screenshot](https://github.com/Nikhil22/aces/blob/master/public/img/reel.png)
 
 <h2>Mobile</h2>
-![alt tag](https://github.com/Nikhil22/aces/blob/master/public/img/reelmobile.png)
+<p>
+  <img src="https://github.com/Nikhil22/aces/blob/master/public/img/reelmobile.png"/>
+</p>
 
 <h2>Things that can be improved</h2>
 <ol>
