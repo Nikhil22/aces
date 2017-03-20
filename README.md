@@ -8,7 +8,7 @@
 </ol>
 
 <h2>Desktop</h2>
-![alt tag](https://github.com/Nikhil22/aces/blob/master/public/img/reel.png)
+![Screenshot](https://github.com/Nikhil22/aces/blob/master/public/img/reel.png)
 
 <h2>Mobile</h2>
 ![alt tag](https://github.com/Nikhil22/aces/blob/master/public/img/reelmobile.png)
