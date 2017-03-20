@@ -8,6 +8,10 @@
 </ol>
 
 <h2>Desktop</h2>
+
+<p align="center">
+  <img src="https://github.com/Nikhil22/aces/blob/master/public/img/reel.png" width="350"/>
+</p>
 ![Screenshot](https://github.com/Nikhil22/aces/blob/master/public/img/reel.png)
 
 <h2>Mobile</h2>
